@@ -1,0 +1,12 @@
+name: Stock_Analysis
+title: Stock_Analysis
+username: verumanalytica
+account: verumanalytica
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12243971
+bundleId: 8796292
+url: https://verumanalytica.shinyapps.io/Stock_Analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
